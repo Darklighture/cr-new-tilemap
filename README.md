@@ -46,11 +46,11 @@ python main.py
 
 ```
 cr-tilemap/
-├── run.py              # Main program
+├── main.py              # Main program
 ├── requirements.txt     # Dependencies list
 ├── data/               # Input data directory (place tilemap.csv here)
 ├── output/             # Output directory (generated PDF files)
-├── config/             # Configuration files
+├── config.yml             # Configuration files
 └── README.md           # Documentation
 ```
 
